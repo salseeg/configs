@@ -1,0 +1,7 @@
+# / was on /dev/sda2 during installation
+UUID=6bfa93ec-5d2d-4bec-99cb-c9836a3101bc /               ext4    errors=remount-ro,noatime 0       1
+# swap was on /dev/sda3 during installation
+#UUID=17a3d717-269b-4bfc-8fd7-b9ec2c530f80 none            swap    sw              0       0
+
+tmpfs 	/tmp 		tmpfs noatime,nosuid 0 0
+#tmpfs 	/var/lock 	tmpfs defaults 0 0
