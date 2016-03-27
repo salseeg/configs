@@ -1,0 +1,4 @@
+UUID=fc720cb7-b167-49c4-ad79-07625066aaa2 /disks ext4	defaults,noauto,users,nofail 0 1
+UUID=bb1cf1bb-9d0b-4fc0-af99-a682ed1d1f21 /mnt/oldswap ext4	defaults,noauto,users,nofail 0 1
+UUID=afc053ba-b8af-4553-9e26-c279eeda52cc /mnt/oldhome ext4	defaults,noauto,users,nofail 0 1
+UUID=0a18cda6-72cb-448e-820f-982a5a923470 /mnt/oldroot ext4	defaults,noauto,users,nofail 0 1
